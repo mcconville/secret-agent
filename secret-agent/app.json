@@ -1,0 +1,17 @@
+{
+  "name": "fc0f499e-1c31-48a3-88a5-085a39a5fbb2",
+  "displayName": "secret-agent",
+  "rootAgent": "Root agent",
+  "loggingSettings": {
+    "conversationLoggingSettings": {
+      "retentionWindow": "31536000s"
+    }
+  },
+  "guardrails": ["Default Safety Guardrail", "Default Prompt Guardrail"],
+  "modelSettings": {
+    "model": "gemini-3.5-flash"
+  },
+  "timeZoneSettings": {
+    "timeZone": "America/Los_Angeles"
+  }
+}
