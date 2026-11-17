@@ -1,9 +1,0 @@
-{
-  "name": "ca87b0e3-2292-4f56-bb0d-8903c71e9f9f",
-  "displayName": "Root agent",
-  "tools": [
-    "end_session",
-    "search_product_catalog"
-  ],
-  "instruction": "agents/Root_agent/instruction.txt"
-}

@@ -1,0 +1,5 @@
+{
+  "displayName": "Klar agent",
+  "instruction": "agents/Klar_agent/instruction.txt",
+  "tools": ["end_session", "search_product_catalog"]
+}
