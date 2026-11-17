@@ -1,0 +1,14 @@
+{
+  "pythonFunction": {
+    "name": "search_product_catalog",
+    "pythonCode": "tools/search_product_catalog/python_function/python_code.py",
+    "description": "Searches the Klar Danish furniture product catalog by query or category.\n\nArgs:\n  query: Search keywords or product name (e.g. \u0027dining table\u0027, \u0027lounge chair\u0027).\n  category: Product category filter (e.g. \u0027seating\u0027, \u0027tables\u0027, \u0027storage\u0027, \u0027lighting\u0027).\n\nReturns:\n  dict: Catalog search results including matching products, materials, and pricing."
+  },
+  "displayName": "search_product_catalog",
+  "toolFakeConfig": {
+    "codeBlock": {
+      "pythonCode": "tools/search_product_catalog/tool_fake_config/code_block/python_code.py"
+    },
+    "enableFakeMode": true
+  }
+}
